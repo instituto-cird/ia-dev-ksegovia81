@@ -41,7 +41,7 @@ Fuente: Feng, K. J. K., McDonald, D. W. y Zhang, A. X. (2025). *Levels of Autono
 | Qué hubo que corregir o rehacer | Una parte. La IA había supuesto que mi computadora era una Dell con 8 GB; lo verifiqué con un comando y era una ASUS con 16 GB. |
 | Cómo se verificó | Ejecuté yo cada comando. Las 37 pruebas pasaron, ruff no marcó errores y la API abrió en /docs. |
 | Qué decisión fue propia | Crear la rama develop y, después de leer el README de la profe, volver a trabajar desde main en la rama feature/m0-onboarding, como ella pide. Dejar el README para cuando la profe defina el caso. |
-| Commit o PR | (lo completo después del PR) |
+| Commit o PR | PR #1 (feature/m0-onboarding hacia main), commit db796bd |
 
 <!-- Copiar el bloque de la entrada para cada nueva (001, 002…) -->
 
