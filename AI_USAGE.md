@@ -40,7 +40,7 @@ Fuente: Feng, K. J. K., McDonald, D. W. y Zhang, A. X. (2025). *Levels of Autono
 | Qué hizo la IA | Me indicó los comandos paso a paso y me ayudó a entender los mensajes de error. También revisó el repositorio en modo lectura y me explicó qué contiene. Cuando le pregunté si podía usar la rama develop, me confirmó que era posible. |
 | Qué hubo que corregir o rehacer | Una parte. La IA había supuesto que mi computadora era una Dell con 8 GB; lo verifiqué con un comando y era una ASUS con 16 GB. |
 | Cómo se verificó | Ejecuté yo cada comando. Las 37 pruebas pasaron, ruff no marcó errores y la API abrió en /docs. |
-| Qué decisión fue propia | Crear la rama develop y, después de leer el README de la profe, volver a trabajar desde main en la rama feature/m0-onboarding, como ella pide. Dejar el README para cuando la profe defina el caso. |
+| Qué decisión fue propia | Crear la rama develop y, después de leer el README de la profe, volver a trabajar desde main en la rama feature/m0-onboarding, como ella pide. Elegir yo el objetivo de la sección Autor/a del README, entre varias opciones que la IA propuso. |
 | Commit o PR | PR #1 (feature/m0-onboarding hacia main), commit db796bd |
 
 <!-- Copiar el bloque de la entrada para cada nueva (001, 002…) -->
