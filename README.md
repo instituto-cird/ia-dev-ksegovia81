@@ -1,11 +1,5 @@
 # ia-dev-template
 
-## Sobre mí
-
-- **Nombre:** Katherine Segovia
-- **Ciudad:** Asunción
-- **Objetivo en el programa:** Aprender a construir software con IA como copiloto: delegar el código repetitivo y encargarme yo de las reglas de negocio, los casos de prueba y la revisión de cada PR.
-
 Template oficial del curso **IA Aplicada al Desarrollo de Software**.
 
 Este repositorio es tu entorno de trabajo durante los 5 módulos. No crearás repos nuevos por módulo — cada PR de evaluación agrega capas sobre este mismo repo. Al terminar el diplomado, el historial de commits es tu portafolio profesional.
@@ -288,3 +282,9 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 - [bandit — security linter](https://bandit.readthedocs.io/)
 - [pytest](https://docs.pytest.org/)
 - [ReAct pattern (paper)](https://arxiv.org/abs/2210.03629)
+
+## Autor/a
+
+**Nombre:** Katherine Segovia
+**Ciudad:** Asunción
+**Qué me gustaría construir en el programa:** Aprender a construir software con IA como copiloto: delegar el código repetitivo y encargarme yo de las reglas de negocio, los casos de prueba y la revisión de cada PR.
