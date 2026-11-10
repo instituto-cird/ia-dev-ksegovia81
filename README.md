@@ -1,5 +1,7 @@
 # ia-dev-template
 
+[![CI](https://github.com/instituto-cird/ia-dev-ksegovia81/actions/workflows/ci.yml/badge.svg)](https://github.com/instituto-cird/ia-dev-ksegovia81/actions/workflows/ci.yml)
+
 Template oficial del curso **IA Aplicada al Desarrollo de Software**.
 
 Este repositorio es tu entorno de trabajo durante los 5 módulos. No crearás repos nuevos por módulo — cada PR de evaluación agrega capas sobre este mismo repo. Al terminar el diplomado, el historial de commits es tu portafolio profesional.
