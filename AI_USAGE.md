@@ -90,7 +90,7 @@ Al cerrar cada laboratorio se completa una fila. Al final del programa, cada par
 | Lab | Entradas | Nivel más usado | Parte hecha por el agente (aprox. %) | Parte que hubo que rehacer (aprox. %) |
 |---|---|---|---|---|
 | Lab 0 | 1 | 1 operador | ~30% | ~10% |
-| Lab 1 | | | | |
+| Lab 1 | 2 | 1 operador | ~40% | ~10% |
 | Lab 2 | | | | |
 | Lab 3 | | | | |
 | Lab 4 | | | | |
