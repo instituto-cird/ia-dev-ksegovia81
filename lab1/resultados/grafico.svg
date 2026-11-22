@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="444" font-family="sans-serif" font-size="12">
+<rect width="640" height="444" fill="#ffffff"/>
+<text x="70" y="22" font-size="14" font-weight="bold">Aciertos contra gasto · arriba y a la izquierda es mejor</text>
+<line x1="70" y1="324" x2="610" y2="324" stroke="#c9ced6" stroke-width="0.5"/>
+<text x="62" y="328" text-anchor="end">0 %</text>
+<line x1="70" y1="259" x2="610" y2="259" stroke="#c9ced6" stroke-width="0.5"/>
+<text x="62" y="263" text-anchor="end">25 %</text>
+<line x1="70" y1="194" x2="610" y2="194" stroke="#c9ced6" stroke-width="0.5"/>
+<text x="62" y="198" text-anchor="end">50 %</text>
+<line x1="70" y1="129" x2="610" y2="129" stroke="#c9ced6" stroke-width="0.5"/>
+<text x="62" y="133" text-anchor="end">75 %</text>
+<line x1="70" y1="64" x2="610" y2="64" stroke="#c9ced6" stroke-width="0.5"/>
+<text x="62" y="68" text-anchor="end">100 %</text>
+<line x1="70" y1="324" x2="70" y2="329" stroke="#333"/>
+<text x="70" y="342" text-anchor="middle">0</text>
+<line x1="205" y1="324" x2="205" y2="329" stroke="#333"/>
+<text x="205" y="342" text-anchor="middle">5.000</text>
+<line x1="340" y1="324" x2="340" y2="329" stroke="#333"/>
+<text x="340" y="342" text-anchor="middle">10.000</text>
+<line x1="475" y1="324" x2="475" y2="329" stroke="#333"/>
+<text x="475" y="342" text-anchor="middle">15.000</text>
+<line x1="610" y1="324" x2="610" y2="329" stroke="#333"/>
+<text x="610" y="342" text-anchor="middle">20.000</text>
+<line x1="70" y1="324" x2="610" y2="324" stroke="#333"/>
+<line x1="70" y1="64" x2="70" y2="324" stroke="#333"/>
+<text x="340.0" y="362" text-anchor="middle">Gasto (tokens totales)</text>
+<text x="16" y="194.0" transform="rotate(-90 16 194.0)" text-anchor="middle">Aciertos (%)</text>
+<circle cx="552" cy="64" r="5" fill="#065A82"/>
+<text x="552" y="54" text-anchor="middle" font-weight="bold">1</text>
+<text x="70" y="388"><tspan font-weight="bold">1</tspan>  cascada-armada: 20/20 aciertos · 17.836 tokens</text>
+<circle cx="491" cy="64" r="5" fill="#065A82"/>
+<text x="491" y="54" text-anchor="middle" font-weight="bold">2</text>
+<text x="70" y="408"><tspan font-weight="bold">2</tspan>  nube-chico: 20/20 aciertos · 15.593 tokens</text>
+<circle cx="230" cy="64" r="5" fill="#065A82"/>
+<text x="230" y="54" text-anchor="middle" font-weight="bold">3</text>
+<text x="70" y="428"><tspan font-weight="bold">3</tspan>  nube-grande: 20/20 aciertos · 5.914 tokens</text>
+</svg>

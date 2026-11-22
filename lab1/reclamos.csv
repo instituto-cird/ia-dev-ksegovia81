@@ -1,0 +1,21 @@
+id,texto,categoria_esperada
+R01,"Me cobraron dos veces la misma compra en Farmacia Central el 3 de noviembre, 185.000 Gs cada una. Solo hice una compra.",cobro_duplicado
+R02,"Pedí la devolución de una compra cancelada hace 15 días y todavía no me acreditaron el dinero.",reembolso_pendiente
+R03,"Aparecen tres compras en una tienda de Miami que yo no hice. Mi tarjeta está conmigo.",sospecha_fraude
+R04,"¿Cuál es el límite diario para pagar con QR en comercios adheridos?",consulta
+R05,"La app me da error 500 cada vez que intento ver mis movimientos.",error_tecnico
+R06,"En el extracto figura dos veces el débito de la cuota del gimnasio de este mes.",cobro_duplicado
+R07,"El comercio aceptó la devolución pero en mi cuenta no se ve el crédito desde hace tres semanas.",reembolso_pendiente
+R08,"Recibí un SMS pidiendo mi clave para 'desbloquear' la cuenta y después vi una transferencia que no reconozco.",sospecha_fraude
+R09,"¿Cómo cambio el correo electrónico asociado a mi cuenta?",consulta
+R10,"Intento pagar con la tarjeta en la web y el botón de confirmar no responde, probé en dos navegadores.",error_tecnico
+R11,"Pagué el almuerzo en Restaurante El Parrón y se cobró el monto dos veces, una a las 12:31 y otra a las 12:32.",cobro_duplicado
+R12,"Devolví un producto defectuoso el 20 de octubre; el comercio dice que ya lo procesó, pero no veo el dinero.",reembolso_pendiente
+R13,"Hay un cargo de 50 dólares de una suscripción que nunca contraté, desde un país donde nunca estuve.",sospecha_fraude
+R14,"¿Qué comisión cobran por las transferencias a otros bancos?",consulta
+R15,"Desde la actualización de ayer, la app se cierra sola al abrir la sección de pagos.",error_tecnico
+R16,"El comercio me dijo que la devolución salió hace 10 días, pero en el extracto solo veo el cobro original.",reembolso_pendiente
+R17,"No reconozco un cobro de la estación de servicio, aunque quizás lo hizo mi hijo con la tarjeta adicional. ¿Pueden revisar?",sospecha_fraude
+R18,"El pago figura como rechazado en la app, pero el comercio dice que le llegó y en mi cuenta se descontó.",error_tecnico
+R19,"¿Puedo pedir un reembolso si el comercio cerró y no responde?",consulta
+R20,"Veo dos cargos iguales del supermercado, aunque ese día hice dos compras parecidas. No estoy segura de si uno está repetido.",cobro_duplicado
