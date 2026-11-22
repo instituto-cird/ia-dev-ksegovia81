@@ -1,0 +1,30 @@
+# Configuraciones para comparar. Cada [[modelo]] es una corrida del script.
+# precio_*: USD por millón de tokens. En los modelos gratuitos va 0; se puede
+# anotar el precio de la versión paga para estimar «cuánto costaría».
+# La clave de API NUNCA va en este archivo: se lee de la variable de entorno
+# que indica api_key_env (por ejemplo, OPENROUTER_API_KEY en el archivo .env).
+#
+# Dos modelos gratuitos de OpenRouter, uno chico y uno grande, como en la
+# demostración de la clase 2. Si un modelo está saturado o deja de estar
+# disponible, elegir otro :free en openrouter.ai/models (consigna, sección 6).
+
+[[modelo]]
+nombre = "nube-chico"
+base_url = "https://openrouter.ai/api/v1"
+modelo = "liquid/lfm-3-1.7b:free"         # 1,7 B de parámetros
+api_key_env = "OPENROUTER_API_KEY"
+precio_entrada = 0.0
+precio_salida = 0.0
+
+[[modelo]]
+nombre = "nube-grande"
+base_url = "https://openrouter.ai/api/v1"
+modelo = "nvidia/nemotron-3-ultra-550b-a55b:free"  # 550 B (55 B activos por respuesta)
+api_key_env = "OPENROUTER_API_KEY"
+precio_entrada = 0.0
+precio_salida = 0.0
+
+[[cascada]]
+nombre = "cascada"
+primero = "nube-chico"                    # se usa siempre
+si_falla = "nube-grande"                  # solo si el chequeo no pasa
